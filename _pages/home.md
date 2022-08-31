@@ -1,6 +1,6 @@
 ---
 permalink: /home/
-title: "About"
+title: "Home"
 excerpt: "A taste of my professional life."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
