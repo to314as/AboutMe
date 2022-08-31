@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /home/
 title: "About"
 excerpt: "A taste of my professional life."
 layouts_gallery:
