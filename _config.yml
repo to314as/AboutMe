@@ -61,8 +61,9 @@ algolia:
   search_only_api_key    :  # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
-    - _posts/
-    - _portfolio/
+    - _posts
+    - _portfolio
+    - _data
 
 # SEO Related
 google_site_verification : # Replace this with your ID, or delete
